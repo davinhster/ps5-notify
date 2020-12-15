@@ -1,6 +1,6 @@
-**CHECK PINNED ISSUES - NVIDIA API Is frequently down, this is a known issue and is on NVIDIA's end. If you get timeout issues, best course of action is to wait it out. Check [HERE](https://github.com/samuelm2/Nvidia-Notify/issues/18) for more info.**
+**CREDIT GOES TO [HERE](https://github.com/samuelm2/Nvidia-Notify/issues/18) for more info.**
 
-# Nvidia-Notify
+# PS5-Notify
 Simple, quick to set up stock notification bot for Nvidia 3080 that I used to get my 3080. Less than 250 lines of code.
 
 [Check the Wiki!](https://github.com/samuelm2/Nvidia-Notify/wiki) - We'll post frequently asked questions, tips, and other useful info there.
