@@ -105,7 +105,6 @@ def os_notification(title, text):
             # No system support for notify-send
             pass
 
-
 def sms_notification(url):
     if USE_TWILIO:
         client.messages.create(to=TWILIO_TO_NUM, from_=TWILIO_FROM_NUM, body=url)
